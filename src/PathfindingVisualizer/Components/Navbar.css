@@ -1,0 +1,42 @@
+*{ 
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box; 
+}
+
+
+header { 
+    display: flex;
+    align-items: center;
+
+    height: 80px; 
+    padding: 0 2rem; 
+    background-color: #1872a7;
+
+}
+h3 {
+    color: white; 
+    font-size: 30px; 
+}
+
+a {
+    color: white; 
+    font-size: 30px; 
+    justify-content: center;
+    margin-left: 30px;
+    padding: 0 2rem; 
+
+
+}
+
+h2 { 
+    background-color: #185071;
+    color: white;
+    font-size: 18px;
+    line-height: 35px;
+    font-weight: lighter;
+    height: 40px;
+    align-items: baseline;
+    padding: 0 2rem; 
+    display: flex;
+}
